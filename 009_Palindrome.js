@@ -1,7 +1,10 @@
 /**
- * @param {number} x
- * @return {boolean}
- */
+ Given an integer x, return true if x is a palindrome, and false otherwise.
+ @param {number} x
+ @return {boolean}
+ **/
+
+ 
 var isPalindrome = function (x) {
 
     if(x<0) return false;
